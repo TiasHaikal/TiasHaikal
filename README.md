@@ -49,7 +49,6 @@
 <!-- [![Afrandormd's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiasHaikal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=TiasHaikal&show_icons=true&theme=tokyonight" alt="TiasHaikal's GitHub Stats" width="46%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiasHaikal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages Profile" width="35%" />
 </p>
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=TiasHaikal&theme=tokyonight&hide_border=false)<br/> -->
