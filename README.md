@@ -90,15 +90,8 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TiasHaikal&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiasHaikal&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TiasHaikal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</p>
 
 ---
 
